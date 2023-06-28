@@ -1,0 +1,3 @@
+[submodule "libs/document_filler"]
+	path = libs/document_filler
+	url = https://github.com/i1alxn/document-filler
